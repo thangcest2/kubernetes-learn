@@ -1,5 +1,5 @@
 # kubernetes-learn
-Playground with Kubernetes (k8s) in Docker Desktop and real account
+Playground with Kubernetes (k8s) in Docker Desktop and real GCP account
 
 ## Kubernetes cluster in docker-desktop
 Basically, after installing docker, we go to Docker Desktop settings and enable kubernetes there
